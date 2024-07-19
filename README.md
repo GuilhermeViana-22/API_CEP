@@ -15,9 +15,9 @@ Este projeto é uma API desenvolvida em Laravel que permite realizar consultas d
    Clone o repositório para sua máquina local:
 
 ```bash
-  $ git clone https://github.com/usuario/nome-do-repositorio.git
+  $ git clone https://github.com/GuilhermeViana-22/API_CEP.git API_CEP
 
-  $ cd nome-do-repositorio
+  $ cd API_CEP
    ```
 
 2. Atualização de pacotes
